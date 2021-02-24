@@ -1,4 +1,7 @@
-# Spring PetClinic Sample Application [![Build Status](https://travis-ci.com/github/stephaniebasaraba/spring-petclinic)](https://travis-ci.com/github/stephaniebasaraba/spring-petclinic)
+# Spring PetClinic Sample Application
+
+[![Build Status](https://travis-ci.com/stephaniebasaraba/spring-petclinic.svg?branch=master)](https://travis-ci.com/stephaniebasaraba/spring-petclinic)
+
 Deploy this sample application to Pivotal Web Services:
 
 <a href="https://push-to.cfapps.io?repo=https%3A%2F%2Fgithub.com%2Fspring-projects%2Fspring-petclinic.git">
